@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sunkenstories-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-01 00:15+0200\n"
+"POT-Creation-Date: 2013-05-10 12:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgid "II"
 msgstr ""
 
 #. [side]: id=nelad, type=General
-#: ./sunkenstories/scenarios/ii.cfg:21 ./sunkenstories/scenarios/ii.cfg:118
+#: ./sunkenstories/scenarios/ii.cfg:21 ./sunkenstories/scenarios/ii.cfg:114
 msgid "Nelad"
 msgstr ""
 
@@ -56,7 +56,7 @@ msgid "Defeat Kelradir."
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./sunkenstories/scenarios/ii.cfg:50
+#: ./sunkenstories/scenarios/ii.cfg:50 ./sunkenstories/scenarios/ii.cfg:141
 msgid "Death."
 msgstr ""
 
@@ -81,27 +81,37 @@ msgid "Guards, kill this rioter. He's endangering the nation's safety."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:103
+#: ./sunkenstories/scenarios/ii.cfg:99
 msgid "After Nelad had defeated his old friend Kelradir, he went on a journey through the nation to report to the marshal of Alheirra."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:106
+#: ./sunkenstories/scenarios/ii.cfg:102
 msgid "When he finally arrived, he was told the marshal had no time for this right now so he would have to wait with his guards."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:109
+#: ./sunkenstories/scenarios/ii.cfg:105
 msgid "To find out more about the business taking place in Alheirra, Nelad sent out a few guards to talk to civics. But to their surprise, the doors were shut and locked although it was a good day to sell their goods. This made Nelad even more worried about things."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:112
+#: ./sunkenstories/scenarios/ii.cfg:108
 msgid "So they went outside the town and camped near Jindaril for a while. But suddenly some bandits appeared whose physical state was remarkably good. Without a warning, they attacked."
 msgstr ""
 
-#. [side]: id=bandit, type=Highwayman
-#: ./sunkenstories/scenarios/ii.cfg:130
-msgid "Bandit"
+#. [side]: id=raider, type=Highwayman
+#: ./sunkenstories/scenarios/ii.cfg:126
+msgid "Raider"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/ii.cfg:137
+msgid "Defeat the raider."
+msgstr ""
+
+#. [message]: speaker=raider
+#: ./sunkenstories/scenarios/ii.cfg:149
+msgid "You must die, pig."
 msgstr ""
 
