@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sunkenstories-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-10 12:16+0200\n"
+"POT-Creation-Date: 2013-06-03 23:05+0200\n"
 "PO-Revision-Date: 2013-05-01 00:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -37,7 +37,7 @@ msgstr ""
 
 #. [campaign]: id=sunkenstories
 #: sunkenstories/_main.cfg:14
-msgid "It's almost harvesting season"
+msgid "End"
 msgstr ""
 
 #. [scenario]: id=ii1
@@ -47,6 +47,7 @@ msgstr ""
 
 #. [side]: id=nelad, type=General
 #: sunkenstories/scenarios/ii.cfg:21 sunkenstories/scenarios/ii.cfg:114
+#: sunkenstories/scenarios/ii.cfg:191
 msgid "Nelad"
 msgstr ""
 
@@ -129,4 +130,56 @@ msgstr ""
 #. [message]: speaker=raider
 #: sunkenstories/scenarios/ii.cfg:149
 msgid "You must die, pig."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:176
+msgid ""
+"After Nelad's forces had won the struggle, he searched for something that "
+"would indicate where they came from."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:179
+msgid ""
+"He found a scroll in an old, worn out leather bag. It said: 'Intruder at "
+"Jindaril sector. -No convicts.'"
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:182
+msgid ""
+"Nelad read the scroll again. Then he recognized the handwriting of the "
+"marshal. His thoughts were not fast enough to remember the technique the "
+"marshal called 'the False Positive'."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:185
+msgid ""
+"This technique assumed a first, medium heavy strike which the enemy could "
+"scrape through, followed by a heavy but low-effort assault which would leave "
+"no one alive."
+msgstr ""
+
+#. [side]: id=nemesis, type=Highwayman
+#: sunkenstories/scenarios/ii.cfg:201
+msgid "Nemesis"
+msgstr ""
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/ii.cfg:214
+msgid "Bring it to an end."
+msgstr ""
+
+#. [message]: speaker=nelad
+#: sunkenstories/scenarios/ii.cfg:226
+msgid "Why does this happen? Why are you doing this? Why must I die?"
+msgstr ""
+
+#. [message]: speaker=nemesis
+#: sunkenstories/scenarios/ii.cfg:230
+msgid ""
+"They always ask 'why'. You don't need to worry about it. It would exceed the "
+"bounds of your neuronic abilities. Goodbye."
 msgstr ""
