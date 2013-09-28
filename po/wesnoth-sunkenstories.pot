@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sunkenstories-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 17:37-0400\n"
+"POT-Creation-Date: 2013-09-28 11:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,6 +35,322 @@ msgstr ""
 msgid "End"
 msgstr ""
 
+#. [scenario]: id=i1
+#: ./sunkenstories/scenarios/i.cfg:4
+msgid "I"
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:9
+msgid "It was a dark time..."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:12
+msgid "Three warlords returned to Alheirra to request more troops to support the battleground in the north."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:15
+msgid "One of them, Thenaken of Wizlud, had watched the arising of the dark powers in the north for a long time an felt that the time of action had come now. He arranged a meeting with the marshal of Alheirra and let the two younger, less experienced lords go on a quest for men to go to the battlegrounds in the north."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:18
+msgid "Three days later four graves were dug, which were saying: 'Thenaken of Wizlud', 'Alberrac of Tinderah', 'Oraidir of Jeren' and 'a-Hamerrad of Alheirra'."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:21
+msgid "We are in Wizlud, home of the deceased warlord Thenaken. Thesandir, his son, tries bitterly to reconquer the half of Wizlud which fell into the hands of nordic bandits."
+msgstr ""
+
+#. [side]: id=thesandir, type=Grand Marshal
+#: ./sunkenstories/scenarios/i.cfg:27 ./sunkenstories/scenarios/i.cfg:124 ./sunkenstories/scenarios/i.cfg:205 ./sunkenstories/scenarios/i.cfg:324 ./sunkenstories/scenarios/i.cfg:423 ./sunkenstories/scenarios/i.cfg:538
+msgid "Thesandir"
+msgstr ""
+
+#. [side]: id=lieutenant, type=Fugitive
+#: ./sunkenstories/scenarios/i.cfg:39
+msgid "Lieutenant"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/i.cfg:52
+msgid "Crush the bandits' lieutenant."
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./sunkenstories/scenarios/i.cfg:56 ./sunkenstories/scenarios/i.cfg:152 ./sunkenstories/scenarios/i.cfg:360 ./sunkenstories/scenarios/i.cfg:470 ./sunkenstories/scenarios/ii.cfg:50 ./sunkenstories/scenarios/ii.cfg:141
+msgid "Death."
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:65
+msgid "We will show you what happens if you enter the territory of the warlords of Alheirra, bandit rabble!"
+msgstr ""
+
+#. [message]: speaker=lieutenant
+#: ./sunkenstories/scenarios/i.cfg:69
+msgid "Oh, yes? I'm so afraid, worm!"
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:97
+msgid "After Thesandir, son of Thenaken, defeated the bandits he rushed to Alheirra to report to the marshal."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:100
+msgid "Finally, he was told by a merchant that the marshal of Alheirra and three warlords, one of them his father, had been murdered."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:103
+msgid "In agony, he made his way to his good friend Sinisar, who had a store in Alheirra, to listen to his advice."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:106
+msgid "But also Sinisar was dead. He lay with slashed throat on the counter and stared at Thesandir with an empty glance."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:109
+msgid "After Thesandir had wandered through Alheirra for long hours, one of his guards found him and brought him back to Wizlud, where he had to overtake his father's business."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:112
+msgid "Soon a new marshal for Alheirra was elected and further the fights in the north were raging. But it seemed like the opposing forces were smashed by the well-qualified and disciplined guards of Alheirra."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:115
+msgid "When it became public that important figures taking place in the fights were killed at night, Thesandir could not leave it at that."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:118
+msgid "He traveled northwards. Already ahead from the battlegrounds skirmishes took place, which however ended fast in favor of Alheirra. Thesandir of Wizlud reached Necliz, the severely contested fortress in the north."
+msgstr ""
+
+#. [side]: id=captain, type=Fugitive
+#: ./sunkenstories/scenarios/i.cfg:136
+msgid "Captain"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/i.cfg:148
+msgid "Crush the bandits' captain."
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:161
+msgid "We will not let the nort fall into the hands of bandits!"
+msgstr ""
+
+#. [message]: speaker=captain
+#: ./sunkenstories/scenarios/i.cfg:165
+msgid "Barely a few hairs of the beard but already wants to play with the big ones."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:193
+msgid "After hard fights the captain could be distinguished, which was to a big part credit of Wizlud's guards. The soldiers noticed quickly that Thesandir was a skilled leader and promised him loyalty to death."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:196
+msgid "Necliz could be held as long as the rare attacks could not do wreak havoc. But merely, the peace was of short while."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:199
+msgid "Two months after Thesandir had arrived in the north the bandits reconquered Necliz in a nightly assault. Thesandir's soldiers were forced back southwards until they could hold a fortress named Shizad. Now Thesandir had to fight back the bandits if he wanted to hold the north."
+msgstr ""
+
+#. [unit]: id=zarim, type=Halberdier
+#: ./sunkenstories/scenarios/i.cfg:215
+msgid "Zarim"
+msgstr ""
+
+#. [side]: id=major, type=Fugitive
+#: ./sunkenstories/scenarios/i.cfg:226
+msgid "Major"
+msgstr ""
+
+#. [unit]: id=clguard, type=Highwayman
+#. [unit]: id=mjguard, type=Highwayman
+#: ./sunkenstories/scenarios/i.cfg:235 ./sunkenstories/scenarios/i.cfg:345
+msgid "Guard"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/i.cfg:246
+msgid "Crush the bandits' major."
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./sunkenstories/scenarios/i.cfg:250
+msgid "Tod."
+msgstr ""
+
+#. [message]: speaker=zarim
+#: ./sunkenstories/scenarios/i.cfg:259
+msgid "My lord, I am Zarim of Shizad. I will support you."
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:263
+msgid "Fine. We need every help."
+msgstr ""
+
+#. [message]: speaker=major
+#: ./sunkenstories/scenarios/i.cfg:267
+msgid "We'll break you, one more or less!"
+msgstr ""
+
+#. [message]: speaker=zarim
+#: ./sunkenstories/scenarios/i.cfg:295
+msgid "Ha, the guard is dead! Now it will be easy!"
+msgstr ""
+
+#. [message]: speaker=major
+#: ./sunkenstories/scenarios/i.cfg:299
+msgid "You can't defeat us!"
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:309
+msgid "After Shizad was relieved from the bandits Thesandir moved on to the north to tell the genearal the enemy had gained strength since beleaguering Wizlud."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:312
+msgid "When he arrived at the battlegrounds, he heard that the general had been assaulted. He had died in the morning."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:315
+msgid "Thesandir went into the tavern to find out more just as the horn resounded. All soldiers hurried outside and put on their armor. An envoy delivered the message that Jeren, the fortress of one of the warlords having accompanied Thenaken to Alheirra, was harassed by bandits whose power exceeded all prior forces."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:318
+msgid "The castle Jeren at the icy coast was on the verge of defeat when Thesandir's army arrived and granted them a saving delay."
+msgstr ""
+
+#. [side]: id=colonel, type=Fugitive
+#: ./sunkenstories/scenarios/i.cfg:336
+msgid "Colonel"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/i.cfg:356
+msgid "Crush the bandits' colonel."
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:369
+msgid "We will punch you back to your caves!"
+msgstr ""
+
+#. [message]: speaker=colonel
+#: ./sunkenstories/scenarios/i.cfg:373
+msgid "You don't know which powers you dare to play with, fools!"
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:401
+msgid "Keep it up, men!"
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:411
+msgid "The victory of Jeren gave new hope to the civics in the north and actually the fights went better than ever. The bandit peoples were pushed back far northwards and the big region around Bashid was recaptured."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:414
+msgid "But after some time, the bandits hit back. In Bashid finally, six months after Thesandir's arrival, the defenders of the north were facing the bandits' marshal's army."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:417
+msgid "This skirmish would decide about the north's fate."
+msgstr ""
+
+#. [unit]: id=nasir, type=Halberdier
+#: ./sunkenstories/scenarios/i.cfg:434
+msgid "Nasir"
+msgstr ""
+
+#. [side]: id=marshal, type=Fugitive
+#: ./sunkenstories/scenarios/i.cfg:445
+msgid "Marshal"
+msgstr ""
+
+#. [unit]: id=msguard, type=Highwayman
+#: ./sunkenstories/scenarios/i.cfg:455
+msgid "Sentinel"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/i.cfg:466
+msgid "Crush the bandits' marshall and lead Alheirra to victory."
+msgstr ""
+
+#. [message]: speaker=nasir
+#: ./sunkenstories/scenarios/i.cfg:479
+msgid "My lord, I have heard about your victory of Jeren. You are a hero! Thus I provide my Iron Maulers to you and will ride into the battle at your side! For Alheirra!"
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:483
+msgid "You cannot persist against Alheirra, bandits! We will defend our country to death!"
+msgstr ""
+
+#. [message]: speaker=marshal
+#: ./sunkenstories/scenarios/i.cfg:487
+msgid "Nobody can stop us."
+msgstr ""
+
+#. [message]: speaker=mlguard
+#: ./sunkenstories/scenarios/i.cfg:491
+msgid "Charge!"
+msgstr ""
+
+#. [message]: speaker=thesandir
+#: ./sunkenstories/scenarios/i.cfg:519
+msgid "Rush forward!"
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:529
+msgid "And so the north was releived from the bandits."
+msgstr ""
+
+#. [part]
+#: ./sunkenstories/scenarios/i.cfg:532
+msgid "Thesandir returned to Wizlud where he was welcomed by his folk."
+msgstr ""
+
+#. [unit]: id=pihak, type=Cavalryman
+#: ./sunkenstories/scenarios/i.cfg:546
+msgid "Pihak"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./sunkenstories/scenarios/i.cfg:559
+msgid "Listen to the envoy."
+msgstr ""
+
+#. [message]: speaker=pihak
+#: ./sunkenstories/scenarios/i.cfg:568
+msgid "My lord, the marshal of Alheirra thanks you on behalf of the whole nation for your brave and altruistic commitment in this dark hour. Everyone would have gave in seeing this superiority but you saved thousands' lives and also Alheirra. This nation is in your debt eternally."
+msgstr ""
+
 #. [scenario]: id=ii1
 #: ./sunkenstories/scenarios/ii.cfg:4
 msgid "II"
@@ -53,11 +369,6 @@ msgstr ""
 #. [objective]: condition=win
 #: ./sunkenstories/scenarios/ii.cfg:46
 msgid "Defeat Kelradir."
-msgstr ""
-
-#. [objective]: condition=lose
-#: ./sunkenstories/scenarios/ii.cfg:50 ./sunkenstories/scenarios/ii.cfg:141
-msgid "Death."
 msgstr ""
 
 #. [message]: speaker=nelad
