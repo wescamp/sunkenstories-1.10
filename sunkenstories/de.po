@@ -1,0 +1,666 @@
+#
+# flash1900 <flash1900@freenode.net>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sunkenstories-1.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-28 11:48-0400\n"
+"PO-Revision-Date: 2013-09-29 08:30+0200\n"
+"Last-Translator: flash1900 <flash1900@freenode.net>\n"
+"Language-Team: Deutsch <flash1900@freenode.net>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#. [campaign]: id=sunkenstories
+#: sunkenstories/_main.cfg:8
+msgid "Sunken Stories"
+msgstr "Versunkene Geschichten"
+
+#. [campaign]: id=sunkenstories
+#: sunkenstories/_main.cfg:9
+msgid ""
+"These tales are relics from the library of the desert city Alheirra, which "
+"perished long time ago."
+msgstr ""
+"Diese Erzählungen sind Relikte aus der Bücherei der Wüstenstadt Alheirra, "
+"die vor langer Zeit unterging."
+
+#. [campaign]: id=sunkenstories
+#: sunkenstories/_main.cfg:10
+msgid "SknSt"
+msgstr "SknSt"
+
+#. [campaign]: id=sunkenstories
+#: sunkenstories/_main.cfg:13
+msgid "Story mode"
+msgstr "Story-Modus"
+
+#. [campaign]: id=sunkenstories
+#: sunkenstories/_main.cfg:14
+msgid "End"
+msgstr "Ende"
+
+#. [scenario]: id=i1
+#: sunkenstories/scenarios/i.cfg:4
+msgid "I"
+msgstr "I"
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:9
+msgid "It was a dark time..."
+msgstr "Es war eine dunkle Zeit..."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:12
+msgid ""
+"Three warlords returned to Alheirra to request more troops to support the "
+"battleground in the north."
+msgstr ""
+"Drei Kriegsherren kehrten nach Alheirra zurück, um mehr Truppen zur "
+"Unterstützung der Schlachtreihen im Norden anzufordern."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:15
+msgid ""
+"One of them, Thenaken of Wizlud, had watched the arising of the dark powers "
+"in the north for a long time an felt that the time of action had come now. "
+"He arranged a meeting with the marshal of Alheirra and let the two younger, "
+"less experienced lords go on a quest for men to go to the battlegrounds in "
+"the north."
+msgstr ""
+"Einer von ihnen, Thenaken von Wizlud, hatte das Erwachen der dunklen Mächte "
+"im Norden lange Zeit beobachtet und spürte, dass die Zeit des Handelns nun "
+"gekommen war. Er verabredete ein Treffen mit dem Marschall von Alheirra und "
+"ließ die beiden jüngeren, weniger erfahrenen Lehnsherren nach Männern "
+"suchen, die an die Schlachtfelder im Norden reisen würden."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:18
+msgid ""
+"Three days later four graves were dug, which were saying: 'Thenaken of "
+"Wizlud', 'Alberrac of Tinderah', 'Oraidir of Jeren' and 'a-Hamerrad of "
+"Alheirra'."
+msgstr ""
+"Drei Tage später wurden vier Gräber ausgehoben, auf denen stand: 'Thenaken "
+"von Wizlud', 'Alberrac von Tinderah', 'Oraidir von Jeren' und 'a-Hamerrad "
+"von Alheirra'."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:21
+msgid ""
+"We are in Wizlud, home of the deceased warlord Thenaken. Thesandir, his son, "
+"tries bitterly to reconquer the half of Wizlud which fell into the hands of "
+"nordic bandits."
+msgstr ""
+"Wir befinden uns in Wizlud, der Heimat des verstorbenen Kriegsherren "
+"Thenaken. Thesandir, sein Sohn, versucht erbittert, die Hälfte von Wizlud "
+"zurückzuerobern, die in die Hände von nordischen Banditen gefallen ist."
+
+#. [side]: id=thesandir, type=Grand Marshal
+#: sunkenstories/scenarios/i.cfg:27 sunkenstories/scenarios/i.cfg:124
+#: sunkenstories/scenarios/i.cfg:205 sunkenstories/scenarios/i.cfg:324
+#: sunkenstories/scenarios/i.cfg:423 sunkenstories/scenarios/i.cfg:538
+msgid "Thesandir"
+msgstr "Thesandir"
+
+#. [side]: id=lieutenant, type=Fugitive
+#: sunkenstories/scenarios/i.cfg:39
+msgid "Lieutenant"
+msgstr "Leutnant"
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/i.cfg:52
+msgid "Crush the bandits' lieutenant."
+msgstr "Vernichte den Leutnant der Banditen."
+
+#. [objective]: condition=lose
+#: sunkenstories/scenarios/i.cfg:56 sunkenstories/scenarios/i.cfg:152
+#: sunkenstories/scenarios/i.cfg:360 sunkenstories/scenarios/i.cfg:470
+#: sunkenstories/scenarios/ii.cfg:50 sunkenstories/scenarios/ii.cfg:141
+msgid "Death."
+msgstr "Tod."
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:65
+msgid ""
+"We will show you what happens if you enter the territory of the warlords of "
+"Alheirra, bandit rabble!"
+msgstr ""
+"Wir werden euch zeigen, was passiert, wenn ihr das Territorium der "
+"Kriegsherren von Alheirra betretet, Banditenpack!"
+
+#. [message]: speaker=lieutenant
+#: sunkenstories/scenarios/i.cfg:69
+msgid "Oh, yes? I'm so afraid, worm!"
+msgstr "Oh, ja? Ich habe solche Angst, Wurm!"
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:97
+msgid ""
+"After Thesandir, son of Thenaken, defeated the bandits he rushed to Alheirra "
+"to report to the marshal."
+msgstr ""
+"Nachdem Thesandir, Sohn des Thenaken, die Banditen besiegt hatte, eilte er "
+"nach Alheirra, um dem Marschall Bericht zu erstatten."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:100
+msgid ""
+"Finally, he was told by a merchant that the marshal of Alheirra and three "
+"warlords, one of them his father, had been murdered."
+msgstr ""
+"Schließlich erfuhr er von einem Händler, dass der Marschall von Alheirra und "
+"drei Kriegsherren, einer von ihnen sein Vater, ermordet worden waren."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:103
+msgid ""
+"In agony, he made his way to his good friend Sinisar, who had a store in "
+"Alheirra, to listen to his advice."
+msgstr ""
+"In tiefer Trauer machte er sich auf den Weg zu seinem guten Freund Sinisar, "
+"der einen Laden in Alheirra hatte, um seinen Rat anzuhören."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:106
+msgid ""
+"But also Sinisar was dead. He lay with slashed throat on the counter and "
+"stared at Thesandir with an empty glance."
+msgstr ""
+"Aber auch Sinisar war tot. Er lag mit aufgeschlitzter Kehle auf dem Tresen "
+"und starrte Thesandir mit leerem Blick an."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:109
+msgid ""
+"After Thesandir had wandered through Alheirra for long hours, one of his "
+"guards found him and brought him back to Wizlud, where he had to overtake "
+"his father's business."
+msgstr ""
+"Nachdem Thesandir lange Stunden durch Alheirra geirrt war, brachte ihn eine "
+"seiner Wachen zurück nach Wizlud, wo er die Geschäfte seines Vaters "
+"übernehmen musste."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:112
+msgid ""
+"Soon a new marshal for Alheirra was elected and further the fights in the "
+"north were raging. But it seemed like the opposing forces were smashed by "
+"the well-qualified and disciplined guards of Alheirra."
+msgstr ""
+"Bald wurde ein neuer Marschall für Alheirra gewählt und die Kämpfe im Norden "
+"tobten weiter. Aber es schien, dass die gegnerischen Truppen von den gut "
+"ausgebildeten und disziplinierten Wachen Alheirras zerschlagen wurden."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:115
+msgid ""
+"When it became public that important figures taking place in the fights were "
+"killed at night, Thesandir could not leave it at that."
+msgstr ""
+"Als es öffentlich wurde, dass wichtige Figuren, die an den Kämpfen "
+"teilnahmen, in der Nacht umgebracht wurden, konnte Thesandir es nicht dabei "
+"belassen."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:118
+msgid ""
+"He traveled northwards. Already ahead from the battlegrounds skirmishes took "
+"place, which however ended fast in favor of Alheirra. Thesandir of Wizlud "
+"reached Necliz, the severely contested fortress in the north."
+msgstr ""
+"Er reiste nordwärts. Schon vor den Schlachtfeldern fanden Kämpfe statt, die "
+"jedoch schnell zugunsten von Alheirra ein Ende fanden. Thesandir von Wizlud "
+"erreichte Necliz, die schwer umkämpfte Festung im Norden."
+
+#. [side]: id=captain, type=Fugitive
+#: sunkenstories/scenarios/i.cfg:136
+msgid "Captain"
+msgstr "Hauptmann"
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/i.cfg:148
+msgid "Crush the bandits' captain."
+msgstr "Vernichte den Hauptmann der Banditen."
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:161
+msgid "We will not let the nort fall into the hands of bandits!"
+msgstr "Wir werden den Norden nicht in die Hände von Banditen fallen lassen!"
+
+#. [message]: speaker=captain
+#: sunkenstories/scenarios/i.cfg:165
+msgid ""
+"Barely a few hairs of the beard but already wants to play with the big ones."
+msgstr ""
+"Kaum aus den Windeln herausgewachsen, möchte aber schon mit den Großen "
+"spielen."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:193
+msgid ""
+"After hard fights the captain could be distinguished, which was to a big "
+"part credit of Wizlud's guards. The soldiers noticed quickly that Thesandir "
+"was a skilled leader and promised him loyalty to death."
+msgstr ""
+"Nach einem harten Kampf konnte der Hauptmann vernichtet werden, was zu einem "
+"großen Teil der Verdienst von Thesandirs Wachen war. Die Soldaten merkten "
+"schnell, dass Thesandir ein fähiger Anführer war und versprachen ihm Treue "
+"bis in den Tod."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:196
+msgid ""
+"Necliz could be held as long as the rare attacks could not do wreak havoc. "
+"But merely, the peace was of short while."
+msgstr ""
+"Necliz konnte so lange gehalten werden, wie die spärlichen Angriffe keinen "
+"großen Schaden anrichteten. Aber der Frieden war nur von kurzer Dauer."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:199
+msgid ""
+"Two months after Thesandir had arrived in the north the bandits reconquered "
+"Necliz in a nightly assault. Thesandir's soldiers were forced back "
+"southwards until they could hold a fortress named Shizad. Now Thesandir had "
+"to fight back the bandits if he wanted to hold the north."
+msgstr ""
+"Zwei Monate, nachdem Thesandir im Norden angekommen war, übernahmen die "
+"Banditen Necliz in einem nächtlichen Angriff. Thesandirs Soldaten wurden "
+"südwärts gedrängt, bis sie eine Festung namens Shizad halten konnten. Nun "
+"musste Thesandir die Banditen zurückschlagen, wenn er den Norden halten "
+"wollte."
+
+#. [unit]: id=zarim, type=Halberdier
+#: sunkenstories/scenarios/i.cfg:215
+msgid "Zarim"
+msgstr "Zarim"
+
+#. [side]: id=major, type=Fugitive
+#: sunkenstories/scenarios/i.cfg:226
+msgid "Major"
+msgstr "Major"
+
+#. [unit]: id=clguard, type=Highwayman
+#. [unit]: id=mjguard, type=Highwayman
+#: sunkenstories/scenarios/i.cfg:235 sunkenstories/scenarios/i.cfg:345
+msgid "Guard"
+msgstr "Wache"
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/i.cfg:246
+msgid "Crush the bandits' major."
+msgstr "Vernichte den Major der Banditen."
+
+#. [objective]: condition=lose
+#: sunkenstories/scenarios/i.cfg:250
+msgid "Tod."
+msgstr "Tod."
+
+#. [message]: speaker=zarim
+#: sunkenstories/scenarios/i.cfg:259
+msgid "My lord, I am Zarim of Shizad. I will support you."
+msgstr "Mein Herr, ich bin Zarim von Shizad. Ich werde Euch unterstützen."
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:263
+msgid "Fine. We need every help."
+msgstr "Gut. Wir brauchen jede Hilfe."
+
+#. [message]: speaker=major
+#: sunkenstories/scenarios/i.cfg:267
+msgid "We'll break you, one more or less!"
+msgstr "Wir werden euch brechen, einer mehr oder weniger!"
+
+#. [message]: speaker=zarim
+#: sunkenstories/scenarios/i.cfg:295
+msgid "Ha, the guard is dead! Now it will be easy!"
+msgstr "Ha, die Wache ist tot! Jetzt wird es einfach sein!"
+
+#. [message]: speaker=major
+#: sunkenstories/scenarios/i.cfg:299
+msgid "You can't defeat us!"
+msgstr "Ihr könnt uns nicht besiegen!"
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:309
+msgid ""
+"After Shizad was relieved from the bandits Thesandir moved on to the north "
+"to tell the genearal the enemy had gained strength since beleaguering Wizlud."
+msgstr ""
+"Nachdem Shizad von den Banditen erlöst wurde, reiste Thesandir weiter in den "
+"Norden, um dem General mitzuteilen, dass der Feind seit der Belagerung von "
+"Wizlud stärker geworden war."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:312
+msgid ""
+"When he arrived at the battlegrounds, he heard that the general had been "
+"assaulted. He had died in the morning."
+msgstr ""
+"Als er an den Schlachtreihen ankam, hörte er, dass der General überfallen "
+"wurde. Er war in den Morgenstunden gestorben."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:315
+msgid ""
+"Thesandir went into the tavern to find out more just as the horn resounded. "
+"All soldiers hurried outside and put on their armor. An envoy delivered the "
+"message that Jeren, the fortress of one of the warlords having accompanied "
+"Thenaken to Alheirra, was harassed by bandits whose power exceeded all prior "
+"forces."
+msgstr ""
+"Thesandir ging in die Taverne, um mehr herauszufinden, als gerade das Horn "
+"schallte. Alle Soldaten eilten nach draußen und legten die Rüstungen an. Ein "
+"Bote brachte die Nachricht, dass Jeren, die Festung eines der Kriegsherren, "
+"die Thenaken nach Alheirra begleitet hatten, von Banditen belagert wurde, "
+"deren Stärke über alle vorherigen hinausging."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:318
+msgid ""
+"The castle Jeren at the icy coast was on the verge of defeat when "
+"Thesandir's army arrived and granted them a saving delay."
+msgstr ""
+"Die Burg Jeren an der eisigen Küste stand an der Schwelle zur Niederlage, "
+"als Thesandirs Armee eintraf und ihnen einen rettenden Vorsprung verschaffte."
+
+#. [side]: id=colonel, type=Fugitive
+#: sunkenstories/scenarios/i.cfg:336
+msgid "Colonel"
+msgstr "Oberst"
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/i.cfg:356
+msgid "Crush the bandits' colonel."
+msgstr "Vernichte den Oberst der Banditen."
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:369
+msgid "We will punch you back to your caves!"
+msgstr "Wir werden euch zurück in eure Höhlen schlagen!"
+
+#. [message]: speaker=colonel
+#: sunkenstories/scenarios/i.cfg:373
+msgid "You don't know which powers you dare to play with, fools!"
+msgstr "Ihr wisst nicht, mit welchen Mächten ihr zu spielen wagt, Narren!"
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:401
+msgid "Keep it up, men!"
+msgstr "Macht weiter, Männer!"
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:411
+msgid ""
+"The victory of Jeren gave new hope to the civics in the north and actually "
+"the fights went better than ever. The bandit peoples were pushed back far "
+"northwards and the big region around Bashid was recaptured."
+msgstr ""
+"Der Sieg von Jeren gab den Bürgern im Norden neue Hoffnung und tatsächlich "
+"gingen die Kämpfe besser denn je. Die Banditenvölker wurden weit nordwärts "
+"zurückgedrängt und die große Region um Bashid wurde zurückerobert."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:414
+msgid ""
+"But after some time, the bandits hit back. In Bashid finally, six months "
+"after Thesandir's arrival, the defenders of the north were facing the "
+"bandits' marshal's army."
+msgstr ""
+"Aber nach einiger Zeit schlugen die Banditen zurück. In Bashid schließlich, "
+"sechs Monate nach Thesandirs Ankunft, standen die Verteidiger des Nordens "
+"der Armee des Marschalls der Banditen gegenüber."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:417
+msgid "This skirmish would decide about the north's fate."
+msgstr "Diese Schlacht würde über das Schicksal des Nordens entscheiden."
+
+#. [unit]: id=nasir, type=Halberdier
+#: sunkenstories/scenarios/i.cfg:434
+msgid "Nasir"
+msgstr "Nasir"
+
+#. [side]: id=marshal, type=Fugitive
+#: sunkenstories/scenarios/i.cfg:445
+msgid "Marshal"
+msgstr "Marschall"
+
+#. [unit]: id=msguard, type=Highwayman
+#: sunkenstories/scenarios/i.cfg:455
+msgid "Sentinel"
+msgstr "Erzwache"
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/i.cfg:466
+msgid "Crush the bandits' marshall and lead Alheirra to victory."
+msgstr "Vernichte den Marschall der Banditen und führe Alheirra zum Sieg."
+
+#. [message]: speaker=nasir
+#: sunkenstories/scenarios/i.cfg:479
+msgid ""
+"My lord, I have heard about your victory of Jeren. You are a hero! Thus I "
+"provide my Iron Maulers to you and will ride into the battle at your side! "
+"For Alheirra!"
+msgstr ""
+"Mein Herr, ich hörte von Eurem Sieg von Jeren. Ihr seid ein Held! Daher "
+"stelle ich euch meine Stahlkolosse zur Verfügung und reite an Eurer Seite in "
+"den Kampf! Für Alheirra!"
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:483
+msgid ""
+"You cannot persist against Alheirra, bandits! We will defend our country to "
+"death!"
+msgstr ""
+"Ihr könnt nicht gegen Alheirra bestehen, Banditen! Wir werden unser Land bis "
+"zum Tod verteidigen!"
+
+#. [message]: speaker=marshal
+#: sunkenstories/scenarios/i.cfg:487
+msgid "Nobody can stop us."
+msgstr "Niemand kann uns aufhalten."
+
+#. [message]: speaker=mlguard
+#: sunkenstories/scenarios/i.cfg:491
+msgid "Charge!"
+msgstr "Angriff!"
+
+#. [message]: speaker=thesandir
+#: sunkenstories/scenarios/i.cfg:519
+msgid "Rush forward!"
+msgstr "Stürmt vor!"
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:529
+msgid "And so the north was releived from the bandits."
+msgstr "Und so wurde der Norden von den Banditen befreit."
+
+#. [part]
+#: sunkenstories/scenarios/i.cfg:532
+msgid "Thesandir returned to Wizlud where he was welcomed by his folk."
+msgstr ""
+"Thesandir kehrte nach Wizlud zurück, wo er von seinem Volk begrüßt wurde."
+
+#. [unit]: id=pihak, type=Cavalryman
+#: sunkenstories/scenarios/i.cfg:546
+msgid "Pihak"
+msgstr "Pihak"
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/i.cfg:559
+msgid "Listen to the envoy."
+msgstr "Höre dem Boten zu."
+
+#. [message]: speaker=pihak
+#: sunkenstories/scenarios/i.cfg:568
+msgid ""
+"My lord, the marshal of Alheirra thanks you on behalf of the whole nation "
+"for your brave and altruistic commitment in this dark hour. Everyone would "
+"have gave in seeing this superiority but you saved thousands' lives and also "
+"Alheirra. This nation is in your debt eternally."
+msgstr ""
+"Mein Herr, der Marschall von Alheirra dankt Euch im Namen der gesamten "
+"Nation für Euren mutigen und selbstlosen Einsatz in dieser dunklen Stunde. "
+"Jeder hätte angesichts dieser Übermacht aufgegeben, aber ihr habt Tausende "
+"Leben gerettet und ebenso Alheirra. Dieses Land steht auf ewig in Eurer "
+"Schuld."
+
+#. [scenario]: id=ii1
+#: sunkenstories/scenarios/ii.cfg:4
+msgid "II"
+msgstr ""
+
+#. [side]: id=nelad, type=General
+#: sunkenstories/scenarios/ii.cfg:21 sunkenstories/scenarios/ii.cfg:114
+#: sunkenstories/scenarios/ii.cfg:192
+msgid "Nelad"
+msgstr ""
+
+#. [side]: id=kelradir, type=Halberdier
+#: sunkenstories/scenarios/ii.cfg:33
+msgid "Kelradir"
+msgstr ""
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/ii.cfg:46
+msgid "Defeat Kelradir."
+msgstr ""
+
+#. [message]: speaker=nelad
+#: sunkenstories/scenarios/ii.cfg:59
+msgid "What's up with you, old friend?"
+msgstr ""
+
+#. [message]
+#: sunkenstories/scenarios/ii.cfg:63
+msgid "Don't you talk to the king like this, you scum!"
+msgstr ""
+
+#. [message]: speaker=nelad
+#: sunkenstories/scenarios/ii.cfg:67
+msgid "What are you talking about, Kelradir?"
+msgstr ""
+
+#. [message]: speaker=kelradir
+#: sunkenstories/scenarios/ii.cfg:71
+msgid "Guards, kill this rioter. He's endangering the nation's safety."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:99
+msgid ""
+"After Nelad had defeated his old friend Kelradir, he went on a journey "
+"through the nation to report to the marshal of Alheirra."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:102
+msgid ""
+"When he finally arrived, he was told the marshal had no time for this right "
+"now so he would have to wait with his guards."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:105
+msgid ""
+"To find out more about the business taking place in Alheirra, Nelad sent out "
+"a few guards to talk to civics. But to their surprise, the doors were shut "
+"and locked although it was a good day to sell their goods. This made Nelad "
+"even more worried about things."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:108
+msgid ""
+"So they went outside the town and camped near Jindaril for a while. But "
+"suddenly some bandits appeared whose physical state was remarkably good. "
+"Without a warning, they attacked."
+msgstr ""
+
+#. [side]: id=raider, type=Highwayman
+#: sunkenstories/scenarios/ii.cfg:126
+msgid "Raider"
+msgstr ""
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/ii.cfg:137
+msgid "Defeat the raider."
+msgstr ""
+
+#. [message]: speaker=raider
+#: sunkenstories/scenarios/ii.cfg:149
+msgid "You must die, pig."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:177
+msgid ""
+"After Nelad's forces had won the struggle, he searched for something that "
+"would indicate where they came from."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:180
+msgid ""
+"He found a scroll in an old, worn out leather bag. It said: 'Intruder at "
+"Jindaril sector. -No convicts.'"
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:183
+msgid ""
+"Nelad read the scroll again. Then he recognized the handwriting of the "
+"marshal. His thoughts were not fast enough to remember the technique the "
+"marshal called 'the False Positive'."
+msgstr ""
+
+#. [part]
+#: sunkenstories/scenarios/ii.cfg:186
+msgid ""
+"This technique assumed a first, medium heavy strike which the enemy could "
+"scrape through, followed by a heavy but low-effort assault which would leave "
+"no one alive."
+msgstr ""
+
+#. [side]: id=nemesis, type=Highwayman
+#: sunkenstories/scenarios/ii.cfg:204
+msgid "Nemesis"
+msgstr ""
+
+#. [objective]: condition=win
+#: sunkenstories/scenarios/ii.cfg:217
+msgid "Bring it to an end."
+msgstr ""
+
+#. [message]: speaker=nelad
+#: sunkenstories/scenarios/ii.cfg:229
+msgid "Why does this happen? Why are you doing this? Why must I die?"
+msgstr ""
+
+#. [message]: speaker=nemesis
+#: sunkenstories/scenarios/ii.cfg:233
+msgid ""
+"They always ask 'why'. You don't need to worry about it. It would exceed the "
+"bounds of your neuronal abilities."
+msgstr ""
+
+#. [message]: speaker=nemesis
+#: sunkenstories/scenarios/ii.cfg:237
+msgid ""
+"You might think Alheirra is lost, but you are wrong. We know that we cannot "
+"resist the marshal's army but at least we can cover our tracks before it is "
+"too late."
+msgstr ""
+
+#. [message]: speaker=nemesis
+#: sunkenstories/scenarios/ii.cfg:241
+msgid ""
+"That is why we must kill you. You are just a man on a giant draughtboard. "
+"Today the victory is ours."
+msgstr ""
