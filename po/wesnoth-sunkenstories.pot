@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sunkenstories-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-28 11:48-0400\n"
+"POT-Creation-Date: 2013-10-08 12:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,7 +52,7 @@ msgstr ""
 
 #. [part]
 #: ./sunkenstories/scenarios/i.cfg:15
-msgid "One of them, Thenaken of Wizlud, had watched the arising of the dark powers in the north for a long time an felt that the time of action had come now. He arranged a meeting with the marshal of Alheirra and let the two younger, less experienced lords go on a quest for men to go to the battlegrounds in the north."
+msgid "One of them, Thenaken of Wizlud, had watched the arising of the dark powers in the north for a long time and felt that the time of action had come now. He arranged a meeting with the marshal of Alheirra and let the two younger, less experienced lords go on a quest for men to go to the battlegrounds in the north."
 msgstr ""
 
 #. [part]
@@ -81,7 +81,7 @@ msgid "Crush the bandits' lieutenant."
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./sunkenstories/scenarios/i.cfg:56 ./sunkenstories/scenarios/i.cfg:152 ./sunkenstories/scenarios/i.cfg:360 ./sunkenstories/scenarios/i.cfg:470 ./sunkenstories/scenarios/ii.cfg:50 ./sunkenstories/scenarios/ii.cfg:141
+#: ./sunkenstories/scenarios/i.cfg:56 ./sunkenstories/scenarios/i.cfg:152 ./sunkenstories/scenarios/i.cfg:250 ./sunkenstories/scenarios/i.cfg:360 ./sunkenstories/scenarios/i.cfg:470 ./sunkenstories/scenarios/ii.cfg:50 ./sunkenstories/scenarios/ii.cfg:143
 msgid "Death."
 msgstr ""
 
@@ -147,7 +147,7 @@ msgstr ""
 
 #. [message]: speaker=thesandir
 #: ./sunkenstories/scenarios/i.cfg:161
-msgid "We will not let the nort fall into the hands of bandits!"
+msgid "We will not let the north fall into the hands of bandits!"
 msgstr ""
 
 #. [message]: speaker=captain
@@ -191,11 +191,6 @@ msgstr ""
 msgid "Crush the bandits' major."
 msgstr ""
 
-#. [objective]: condition=lose
-#: ./sunkenstories/scenarios/i.cfg:250
-msgid "Tod."
-msgstr ""
-
 #. [message]: speaker=zarim
 #: ./sunkenstories/scenarios/i.cfg:259
 msgid "My lord, I am Zarim of Shizad. I will support you."
@@ -223,7 +218,7 @@ msgstr ""
 
 #. [part]
 #: ./sunkenstories/scenarios/i.cfg:309
-msgid "After Shizad was relieved from the bandits Thesandir moved on to the north to tell the genearal the enemy had gained strength since beleaguering Wizlud."
+msgid "After Shizad was relieved from the bandits Thesandir moved on to the north to tell the general the enemy had gained strength since beleaguering Wizlud."
 msgstr ""
 
 #. [part]
@@ -348,7 +343,7 @@ msgstr ""
 
 #. [message]: speaker=pihak
 #: ./sunkenstories/scenarios/i.cfg:568
-msgid "My lord, the marshal of Alheirra thanks you on behalf of the whole nation for your brave and altruistic commitment in this dark hour. Everyone would have gave in seeing this superiority but you saved thousands' lives and also Alheirra. This nation is in your debt eternally."
+msgid "My lord, the marshal of Alheirra thanks you on behalf of the whole nation for your brave and altruistic commitment in this dark hour. Everyone would have gave up in seeing this superiority but you saved thousands' lives and also Alheirra. This nation is in your debt eternally."
 msgstr ""
 
 #. [scenario]: id=ii1
@@ -357,7 +352,7 @@ msgid "II"
 msgstr ""
 
 #. [side]: id=nelad, type=General
-#: ./sunkenstories/scenarios/ii.cfg:21 ./sunkenstories/scenarios/ii.cfg:114 ./sunkenstories/scenarios/ii.cfg:192
+#: ./sunkenstories/scenarios/ii.cfg:21 ./sunkenstories/scenarios/ii.cfg:114 ./sunkenstories/scenarios/ii.cfg:195
 msgid "Nelad"
 msgstr ""
 
@@ -417,62 +412,62 @@ msgid "Raider"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./sunkenstories/scenarios/ii.cfg:137
+#: ./sunkenstories/scenarios/ii.cfg:139
 msgid "Defeat the raider."
 msgstr ""
 
 #. [message]: speaker=raider
-#: ./sunkenstories/scenarios/ii.cfg:149
+#: ./sunkenstories/scenarios/ii.cfg:152
 msgid "You must die, pig."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:177
+#: ./sunkenstories/scenarios/ii.cfg:180
 msgid "After Nelad's forces had won the struggle, he searched for something that would indicate where they came from."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:180
+#: ./sunkenstories/scenarios/ii.cfg:183
 msgid "He found a scroll in an old, worn out leather bag. It said: 'Intruder at Jindaril sector. -No convicts.'"
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:183
+#: ./sunkenstories/scenarios/ii.cfg:186
 msgid "Nelad read the scroll again. Then he recognized the handwriting of the marshal. His thoughts were not fast enough to remember the technique the marshal called 'the False Positive'."
 msgstr ""
 
 #. [part]
-#: ./sunkenstories/scenarios/ii.cfg:186
+#: ./sunkenstories/scenarios/ii.cfg:189
 msgid "This technique assumed a first, medium heavy strike which the enemy could scrape through, followed by a heavy but low-effort assault which would leave no one alive."
 msgstr ""
 
 #. [side]: id=nemesis, type=Highwayman
-#: ./sunkenstories/scenarios/ii.cfg:204
+#: ./sunkenstories/scenarios/ii.cfg:207
 msgid "Nemesis"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./sunkenstories/scenarios/ii.cfg:217
+#: ./sunkenstories/scenarios/ii.cfg:220
 msgid "Bring it to an end."
 msgstr ""
 
 #. [message]: speaker=nelad
-#: ./sunkenstories/scenarios/ii.cfg:229
+#: ./sunkenstories/scenarios/ii.cfg:232
 msgid "Why does this happen? Why are you doing this? Why must I die?"
 msgstr ""
 
 #. [message]: speaker=nemesis
-#: ./sunkenstories/scenarios/ii.cfg:233
+#: ./sunkenstories/scenarios/ii.cfg:236
 msgid "They always ask 'why'. You don't need to worry about it. It would exceed the bounds of your neuronal abilities."
 msgstr ""
 
 #. [message]: speaker=nemesis
-#: ./sunkenstories/scenarios/ii.cfg:237
+#: ./sunkenstories/scenarios/ii.cfg:240
 msgid "You might think Alheirra is lost, but you are wrong. We know that we cannot resist the marshal's army but at least we can cover our tracks before it is too late."
 msgstr ""
 
 #. [message]: speaker=nemesis
-#: ./sunkenstories/scenarios/ii.cfg:241
+#: ./sunkenstories/scenarios/ii.cfg:244
 msgid "That is why we must kill you. You are just a man on a giant draughtboard. Today the victory is ours."
 msgstr ""
 
